@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGL", "OGL\OGL.csproj", "{99F8696D-6F64-41C1-9E72-319DA678F94A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGL.Tests", "OGL.Tests\OGL.Tests.csproj", "{DB5FA20E-C2C9-4485-9F6B-DBB0A69B73F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F8696D-6F64-41C1-9E72-319DA678F94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F8696D-6F64-41C1-9E72-319DA678F94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F8696D-6F64-41C1-9E72-319DA678F94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F8696D-6F64-41C1-9E72-319DA678F94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5FA20E-C2C9-4485-9F6B-DBB0A69B73F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5FA20E-C2C9-4485-9F6B-DBB0A69B73F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5FA20E-C2C9-4485-9F6B-DBB0A69B73F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5FA20E-C2C9-4485-9F6B-DBB0A69B73F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41489A16-EA62-4310-BC72-A6CDDFDDAC3B}
+	EndGlobalSection
+EndGlobal
