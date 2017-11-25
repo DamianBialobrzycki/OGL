@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGL", "OGL\OGL.csproj", "{9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGL.Tests", "OGL.Tests\OGL.Tests.csproj", "{DB5FA20E-C2C9-4485-9F6B-DBB0A69B73F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repozytorium", "Repozytorium\Repozytorium.csproj", "{7EAD159E-7496-42F0-84B0-8FECB478D2B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB5FA20E-C2C9-4485-9F6B-DBB0A69B73F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB5FA20E-C2C9-4485-9F6B-DBB0A69B73F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB5FA20E-C2C9-4485-9F6B-DBB0A69B73F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAD159E-7496-42F0-84B0-8FECB478D2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAD159E-7496-42F0-84B0-8FECB478D2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAD159E-7496-42F0-84B0-8FECB478D2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAD159E-7496-42F0-84B0-8FECB478D2B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

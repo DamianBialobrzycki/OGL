@@ -9,7 +9,7 @@ using System.Web;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace OGL.Models
+namespace Repozytorium.Models
 {
     public class Uzytkownik : IdentityUser
     {
@@ -20,6 +20,7 @@ namespace OGL.Models
 
         public string Imie { get; set; }
         public string Nazwisko { get; set; }
+        public int? Wiek { get; set; }
 
         #region dodatkowe pole notmapped
 
